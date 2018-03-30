@@ -1,0 +1,9 @@
+c:\users\mesut\documents\visual studio 2015\Projects\mesut_knn_project\mesut_knn_project\bin\Debug\mesut_knn_project.exe.config
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\bin\Debug\mesut_knn_project.exe
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\bin\Debug\mesut_knn_project.pdb
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\obj\Debug\mesut_knn_project.csprojResolveAssemblyReference.cache
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\obj\Debug\mesut_knn_project.Form1.resources
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\obj\Debug\mesut_knn_project.Properties.Resources.resources
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\obj\Debug\mesut_knn_project.csproj.GenerateResource.Cache
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\obj\Debug\mesut_knn_project.exe
+C:\Users\Mesut\Documents\Visual Studio 2015\Projects\mesut_knn_project\mesut_knn_project\obj\Debug\mesut_knn_project.pdb
